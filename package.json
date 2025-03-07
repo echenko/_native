@@ -1,8 +1,8 @@
 {
-  "name": "echenko.by",
-  "version": "2.0.0",
+  "name": "native",
+  "version": "1.0.0",
   "private": true,
-  "description": "echenko.by",
+  "description": "echenko",
   "type": "module",
   "engines": {
     "node": "^18.18 || ^20.9"
